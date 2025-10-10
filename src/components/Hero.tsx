@@ -33,7 +33,7 @@ const Hero = () => {
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-in fade-in slide-in-from-bottom-4 duration-700 delay-200">
           <Button
             size="lg"
-            onClick={() => window.open("https://wa.me/5544998537410", "_blank")}
+            onClick={() => window.open("https://wa.me/5544998537410?text=Olá,%20vim%20do%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20serviços%20de%20limpeza%20de%20piscinas", "_blank")}
             className="bg-accent hover:bg-accent/90 text-secondary font-semibold text-lg px-8 py-6 shadow-lg hover:shadow-xl transition-all hover:scale-105"
           >
             Falar no WhatsApp

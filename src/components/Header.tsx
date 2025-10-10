@@ -67,7 +67,7 @@ const Header = () => {
             ))}
             <Button
               onClick={() =>
-                window.open("https://wa.me/5544998537410", "_blank")
+                window.open("https://wa.me/5544998537410?text=Olá,%20vim%20do%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20serviços%20de%20limpeza%20de%20piscinas", "_blank")
               }
               className="bg-primary hover:bg-primary/90"
             >
@@ -99,7 +99,7 @@ const Header = () => {
             ))}
             <Button
               onClick={() =>
-                window.open("https://wa.me/5544998537410", "_blank")
+                window.open("https://wa.me/5544998537410?text=Olá,%20vim%20do%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20serviços%20de%20limpeza%20de%20piscinas", "_blank")
               }
               className="bg-primary hover:bg-primary/90 w-full"
             >

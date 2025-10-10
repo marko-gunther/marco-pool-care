@@ -34,7 +34,7 @@ const Contact = () => {
             <Button
               size="lg"
               onClick={() =>
-                window.open("https://wa.me/5544998537410", "_blank")
+                window.open("https://wa.me/5544998537410?text=Olá,%20vim%20do%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20serviços%20de%20limpeza%20de%20piscinas", "_blank")
               }
               className="bg-accent hover:bg-accent/90 text-secondary font-bold text-xl px-12 py-7 shadow-xl hover:shadow-2xl transition-all hover:scale-105 w-full md:w-auto"
             >
