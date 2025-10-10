@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-center md:text-left">
-            <h3 className="text-2xl font-bold mb-2">Marco Gunther</h3>
+            <h3 className="text-2xl font-bold mb-2">MG Piscinas</h3>
             <p className="text-white/80">
               Limpeza de Piscinas em Campo Morão e Região
             </p>
@@ -24,7 +24,7 @@ const Footer = () => {
 
         <div className="border-t border-white/20 mt-6 pt-6 text-center text-white/60 text-sm">
           <p>
-            © {currentYear} Marco Gunther - Limpeza de Piscinas. Todos os direitos
+            © {currentYear} MG Piscinas - Limpeza de Piscinas. Todos os direitos
             reservados.
           </p>
         </div>

@@ -25,13 +25,13 @@ const About = () => {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12 animate-in fade-in slide-in-from-bottom-4 duration-700">
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Quem é Marco Gunther
+              Quem é MG Piscinas
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
-              Com anos de experiência e dedicação, Marco Gunther oferece um
+              Com anos de experiência e dedicação, a MG Piscinas oferece um
               serviço de limpeza de piscinas que une eficiência e confiança.
-              Atendendo em Campo Morão e região, ele cuida da sua piscina como se
-              fosse dele — garantindo água limpa, cristalina e segura para toda a
+              Atendendo em Campo Morão e região, cuidamos da sua piscina como se
+              fosse nossa — garantindo água limpa, cristalina e segura para toda a
               família.
             </p>
           </div>

@@ -7,7 +7,7 @@ const StructuredData = () => {
     script.text = JSON.stringify({
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      name: "Marco Gunther - Limpeza de Piscinas",
+      name: "MG Piscinas - Limpeza de Piscinas",
       description:
         "Limpeza e manutenção de piscinas em Campo Morão e região. Serviço profissional, rápido e confiável.",
       image: "https://lovable.dev/opengraph-image-p98pqg.png",

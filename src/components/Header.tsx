@@ -51,7 +51,7 @@ const Header = () => {
             onClick={() => scrollToSection("inicio")}
             className="text-2xl font-bold text-primary hover:opacity-80 transition-opacity"
           >
-            Marco Gunther
+            MG Piscinas
           </button>
 
           {/* Desktop Navigation */}
