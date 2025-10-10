@@ -25,7 +25,7 @@ const About = () => {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12 animate-in fade-in slide-in-from-bottom-4 duration-700">
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Quem é MG Piscinas
+              Sobre a MG Piscinas
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
               Com anos de experiência e dedicação, a MG Piscinas oferece um
