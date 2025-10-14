@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="text-center md:text-left">
             <h3 className="text-2xl font-bold mb-2">MG Piscinas</h3>
             <p className="text-white/80">
-              Limpeza de Piscinas em Campo Morão e Região
+              Limpeza de Piscinas em Campo Mourão e Região
             </p>
           </div>
 
@@ -17,7 +17,7 @@ const Footer = () => {
               📞 (44) 99853-7410
             </p>
             <p className="text-white/60 text-sm">
-              Atendimento em Campo Morão e região
+              Atendimento em Campo Mourão e região
             </p>
           </div>
         </div>

@@ -22,7 +22,7 @@ const Hero = () => {
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 animate-in fade-in slide-in-from-bottom-4 duration-700">
           Limpeza de Piscinas em
           <br />
-          <span className="text-accent">Campo Morão e Região</span>
+          <span className="text-accent">Campo Mourão e Região</span>
         </h1>
 
         <p className="text-xl md:text-2xl text-white/95 mb-8 max-w-3xl mx-auto animate-in fade-in slide-in-from-bottom-4 duration-700 delay-100">

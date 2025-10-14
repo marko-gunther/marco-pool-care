@@ -9,7 +9,7 @@ const StructuredData = () => {
       "@type": "LocalBusiness",
       name: "MG Piscinas - Limpeza de Piscinas",
       description:
-        "Limpeza e manutenção de piscinas em Campo Morão e região. Serviço profissional, rápido e confiável.",
+        "Limpeza e manutenção de piscinas em Campo Mourão e região. Serviço profissional, rápido e confiável.",
       image: "https://lovable.dev/opengraph-image-p98pqg.png",
       "@id": "https://lovable.app",
       url: "https://lovable.app",
@@ -17,7 +17,7 @@ const StructuredData = () => {
       priceRange: "$$",
       address: {
         "@type": "PostalAddress",
-        addressLocality: "Campo Morão",
+        addressLocality: "Campo Mourão",
         addressRegion: "PR",
         addressCountry: "BR",
       },
@@ -44,7 +44,7 @@ const StructuredData = () => {
       sameAs: ["https://wa.me/5544998537410"],
       areaServed: {
         "@type": "City",
-        name: "Campo Morão",
+        name: "Campo Mourão",
       },
       serviceType: [
         "Limpeza de Piscina",

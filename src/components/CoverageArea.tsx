@@ -10,19 +10,19 @@ const CoverageArea = () => {
           </div>
 
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            Atendimento em Campo Morão e Região
+            Atendimento em Campo Mourão e Região
           </h2>
 
           <p className="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed">
             Atendimento a domicílio, sem endereço fixo. Vamos até você em{" "}
-            <span className="font-semibold text-primary">Campo Morão</span> e
+            <span className="font-semibold text-primary">Campo Mourão</span> e
             cidades próximas para oferecer o melhor serviço de limpeza e
             manutenção de piscinas.
           </p>
 
           <div className="inline-block px-6 py-3 bg-primary/10 border-2 border-primary/20 rounded-lg">
             <p className="text-primary font-semibold">
-              📍 Servindo Campo Morão e região com excelência
+              📍 Servindo Campo Mourão e região com excelência
             </p>
           </div>
         </div>

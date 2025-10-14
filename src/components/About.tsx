@@ -30,7 +30,7 @@ const About = () => {
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
               Com anos de experiência e dedicação, a MG Piscinas oferece um
               serviço de limpeza de piscinas que une eficiência e confiança.
-              Atendendo em Campo Morão e região, cuidamos da sua piscina como se
+              Atendendo em Campo Mourão e região, cuidamos da sua piscina como se
               fosse nossa — garantindo água limpa, cristalina e segura para toda a
               família.
             </p>
